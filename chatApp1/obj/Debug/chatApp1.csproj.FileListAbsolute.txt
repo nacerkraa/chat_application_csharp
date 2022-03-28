@@ -1,0 +1,11 @@
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\bin\Debug\chatApp1.exe.config
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\bin\Debug\chatApp1.exe
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\bin\Debug\chatApp1.pdb
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\obj\Debug\chatApp1.Form1.resources
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\obj\Debug\chatApp1.Properties.Resources.resources
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\obj\Debug\chatApp1.csproj.GenerateResource.Cache
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\obj\Debug\chatApp1.exe
+c:\users\nacer\documents\visual studio 2012\Projects\chatApp1\chatApp1\obj\Debug\chatApp1.pdb
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\chatApp(net)\chatApp1\bin\Debug\chatApp1.exe.config
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\chatApp(net)\chatApp1\obj\Debug\chatApp1.exe
+C:\Users\nacer\Documents\Visual Studio 2012\Projects\chatApp(net)\chatApp1\obj\Debug\chatApp1.pdb
